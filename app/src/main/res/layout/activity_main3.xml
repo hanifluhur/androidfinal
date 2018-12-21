@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    tools:context=".Main3Activity">
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="180dp"
+        android:background="#fff"
+        android:elevation="4dp"
+        android:orientation="vertical"
+        android:padding="20dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/login_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:gravity="center_horizontal"
+            android:text="Destinasi Pantai"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="#000"/>
+
+        <Button
+            android:id="@+id/parangtritis"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="#C0C0C0"
+            android:paddingBottom="16dp"
+            android:text="\nPantai Parangtritis"
+             />
+
+        <Button
+            android:id="@+id/indrayanti"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="7dp"
+            android:background="#C0C0C0"
+            android:paddingBottom="16dp"
+            android:text="\nPantai Indrayanti"
+            />
+
+        <Button
+            android:id="@+id/glagah"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="7dp"
+            android:background="#C0C0C0"
+            android:paddingBottom="16dp"
+            android:text="\nPantai Glagah"
+            />
+    </LinearLayout>
+</RelativeLayout>
+</RelativeLayout>

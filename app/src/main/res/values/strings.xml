@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Jogja Paradise</string>
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="deskripsi_merapi">Gunung Merapi adalah gunung termuda dalam rangkaian gunung berapi yang mengarah ke selatan dari Gunung Ungaran, Gunung Merbabu, dan Gunung Merapi. Gunung ini terbentuk karena aktivitas di zona subduksi Lempeng Indo-Australia yang bergerak ke bawah Lempeng Eurasia menyebabkan munculnya aktivitas vulkanik di sepanjang bagian tengah Pulau Jawa.</string>
+    <string name="gunungapi">Gunung ini merupakan suatu gunung api purba yang terbentuk sekitar 0,6-70 juta tahun yang lalu atau yang memiliki umur tersier (Oligo-Miosen).Gunung Nglanggeran memiliki batuan yang sangat khas karena didominasi oleh aglomerat dan breksi gunung api.</string>
+    <string name="kalibiru">Kalibiru Lokasi di Indonesia Informasi Lokasi Kulon Progo,Yogyakarta Negara Indonesia. Jenis objek wisata Wisata Alam Kalibiru adalah objek wisata alam yang berada di daerah kabupaten Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta. Tempat wisata ini memiliki tanah bergelombang dan dominan oleh perbukitan dalam area hutan lindung</string>
+    <string name="parangtritis">Parangtritis merupakan objek wisata yang cukup terkenal di Yogyakarta selain objek pantai lainnya seperti Samas, Baron, Kukup, Krakal dan Glagah. Parangtritis mempunyai keunikan pemandangan yang tidak terdapat pada objek wisata lainnya yaitu selain ombak yang besar juga adanya gunung-gunung pasir di sekitar pantai, yang biasa disebut gumuk. </string>
+    <string name="indrayanti">Pantai Indrayanti terletak di kawasan Gunungkidul, Yogyakarta. Untuk mencapai pantai Indrayanti, bagi yang menggunakan kendaraan sendiri bisa langsung menuju arah Wonosari, beberapa ratus meter setelah melewati kota wonosari, akan dengan mudah ditemukan rambu lalu lintas yang menunjukkan arah ke kanan, dengan mengikuti rambu tersebut kita akan sampai di pantai Indrayanti.</string>
+    <string name="glagah">Pantai Glagah Indah adalah salah satu pantai yang menjadi objek wisata di provinsi Daerah Istimewa Yogyakarta. Pantai Glagah Indah merupakan salah satu pantai di Yogyakarta dengan hamparan pasir yang berwarna hitam dan banyak mengandung pasir besi. Pantai Glagah Indah memiliki akses yang baik.</string>
+    <string name="borobudur">Objek wisata ini terletak dikawasan Jawa Tengah tepatnya di Desa Borobudur - Kecamatan Borobudur, Kab. Magelang - Jawah Tengah, sekitar 40 km sebelah barat laut Jogjakarta, 7 km arah selatan Kota Magelang.</string>
+    <string name="prambanan">Candi Prambanan terletak kurang lebih 17 km di sisi timur kota Yogyakarta dan berada di pinggir jalan utama Jogja-Solo. Sehingga jika Anda berkendara dari Jogja ke arah Solo atau sebaliknya, Anda pasti akan dapat melihat langung bangungan candi Prambanan. </string>
+    <string name="ratu">Candi Boko (bahasa Jawa: Candhi Ratu Baka) adalah situs purbakala yang merupakan kompleks sejumlah sisa bangunan yang berada kira-kira 3 km di sebelah selatan dari kompleks Candi Prambanan, 18 km sebelah timur Kota Yogyakarta atau 50 km barat daya Kota Surakarta, Jawa Tengah, Indonesia.</string>
+    <string name="title_activity_maps_borobudur">Map</string>
+    <string name="title_activity_map_wisata">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
